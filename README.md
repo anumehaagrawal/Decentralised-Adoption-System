@@ -11,7 +11,7 @@ This is a basic app using pet shop truffle box. It displays a list of pets that 
 
 This consists of a voting mechanism where there are two candidates contesting elections. One account can cast only one vote.
 
-#Technologies used
+# Technologies used
 1. Truffle
 2. Solidity
 3. Mocha testing
